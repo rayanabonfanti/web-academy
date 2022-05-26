@@ -1,1 +1,1 @@
-Explicar Passo a Passo do Código em linhas gerais rápidas
+Um website simples ainda não finalizado de prototipagem de academia.
